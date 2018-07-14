@@ -2,7 +2,7 @@
 [ver aplicacion](https://podcasts-ienxgedhwr.now.sh/) 
 App de podcasts, integrada con la API de audioboom para aprender Nextjs
 
-![captura de la app](./readme-static/readme.png)
+![captura de la app](./.readme-static/readme.png)
 
 ##¿Cómo funciona?
 
